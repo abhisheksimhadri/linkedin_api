@@ -4,7 +4,7 @@ from collections import Counter
 from operator import itemgetter
 from prettytable import PrettyTable
 
-CSV_FILE = os.path.join("/Users", "abhisheksimhadri", "Desktop", "Code_for_Mining_Social_Networks", "Mining-the-Social-Web-2nd-Edition", "ipynb", "resources", "ch03-linkedin", 'my_connections.csv')
+CSV_FILE = os.path.join("/Users")
 j = 0
 #CSV_FILE = open("my_connections.csv","r")
 
