@@ -6,10 +6,10 @@ from linkedin import linkedin
 
 # Instantiate the developer authentication class
 
-CONSUMER_KEY = '75knk5spgqnma9'
-CONSUMER_SECRET = 'xSdsQzy9WMtF8hvm'
-USER_TOKEN = '5fbff52f-0f2a-43cd-acb4-434ca744b479'
-USER_SECRET = '0d26cee6-94a0-44c4-be1f-8d6609c72afa'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+USER_TOKEN = '----'
+USER_SECRET = '----'
 
 RETURN_URL = '' # Not required for developer authentication
 
