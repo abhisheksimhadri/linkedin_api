@@ -2,7 +2,7 @@ from geopy import geocoders
 import json
 
 
-GEO_APP_KEY = 'An8mawuxNvC8EzpI3iDaTD1RzvgZVuuaAtMbnLDXPihDVFsRkZo5Jzn77K6u_Ha4' # XXX: Get this from https://www.bingmapsportal.com
+GEO_APP_KEY = '' # XXX: Get this from https://www.bingmapsportal.com
 g = geocoders.Bing(GEO_APP_KEY)
 
 transforms = [('Greater ', ''), (' Area', '')]
